@@ -23,8 +23,11 @@
 <div> 
   <a href = "mailto:anajoliveira888@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-julia-rodrigues7980/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+ ![Snake animation](https://github.com/Anaju88/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+</div> 
 
 ##
 
@@ -36,3 +39,13 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anaju88&theme=transparent&bg_color=181818&border_color=E34F4F&show_icons=true&icon_color=E34F4F&title_color=E34F4F&text_color=F0F0F0)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anaju88&layout=compact&bg_color=181818&border_color=E34F4F&title_color=E34F4F&text_color=F0F0F0)
+
+
+
+
+
+
+
+
+
+
