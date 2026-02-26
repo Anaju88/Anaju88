@@ -3,7 +3,7 @@
 
  - 👩🏻 Me chamo Ana Julia! 
  - 💻 Atualmente, cursando Análise e Desenvolvimento de Sistemas 
- - 🚛 Atuando na área de Logística 
+ - 💹 Atuo como estagiária na área de Câmbio
     
 
 ## Conhecimentos 👩🏻‍💻
