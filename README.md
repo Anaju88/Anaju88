@@ -1,9 +1,10 @@
 ## Olá, pessoal! 
 
 
- - 👩🏻 Me chamo Ana Julia! 
- - 💻 Atualmente, cursando Análise e Desenvolvimento de Sistemas 
- - 💹 Atuo como estagiária na área de Câmbio
+ - 👩🏻 Me chamo Ana Julia!
+ - 💻 Atualmente, cursando Análise e Desenvolvimento de Sistemas e Ciência dos Dados 
+ - 💹 Atuo como estagiária de Câmbio
+ - 🔍 Buscando me desenvolver na área da Tecnologia. 
     
 
 ## Conhecimentos 👩🏻‍💻
