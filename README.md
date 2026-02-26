@@ -24,8 +24,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anaju88&theme=transparent&bg_color=181818&border_color=E34F4F&show_icons=true&icon_color=E34F4F&title_color=E34F4F&text_color=F0F0F0)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anaju88&layout=compact&bg_color=181818&border_color=E34F4F&title_color=E34F4F&text_color=F0F0F0)
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anaju88&layout=compact&bg_color=181818&border_color=E34F4F&title_color=E34F4F&text_color=F0F0F0)
+](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anaju88&layout=compact&bg_color=181818&border_color=E34F4F&title_color=E34F4F&text_color=F0F0F0
+)
 ##
 
 <div> 
